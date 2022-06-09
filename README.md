@@ -14,5 +14,8 @@ I was then able to create a similar structural flow of CSS elements to allow for
 
 Further comments were created on HTML and CSS files to ensure that the readers were aware of any changes and specific coding parts to what they were doing in the live webpage.
 
-## Screenshot of the final product
+## Screenshot of the Final Product
 ![](my-project/template/01-html-css-git-homework-demo.png)
+
+## URL to the Final Product
+https://thebigbookman.github.io/Bootcamp-Challenge-1/my-project/files-html-css-images/index.html 

@@ -15,4 +15,4 @@ I was then able to create a similar structural flow of CSS elements to allow for
 Further comments were created on HTML and CSS files to ensure that the readers were aware of any changes and specific coding parts to what they were doing in the live webpage.
 
 ## Screenshot of the final product
-![](my-project%5Ctemplate%5C01-html-css-git-homework-demo.png)
+![](my-project/template/01-html-css-git-homework-demo.png)
